@@ -1,0 +1,15 @@
+nav ul {
+    display: flex;
+    justify-content: center;
+    margin-top: -25px;
+}
+
+nav p {
+    min-width: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.website-header {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
