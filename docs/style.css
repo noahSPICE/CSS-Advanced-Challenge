@@ -1,6 +1,7 @@
 nav ul {
     display: flex;
     justify-content: space-between;
+    list-style-type: none;
 }
 
 nav {
@@ -13,7 +14,6 @@ nav p {
     min-width: 100px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
-    font-weight: 300;
     color: yellow;
 }
 
@@ -41,14 +41,19 @@ body {
     background-size: 100%;
 }
 
+a {
+    font-style: bold;
+}
+
 a:link {
     color: yellow;
 }
 
 a:visited {
-    color: hotpink;
+    color: #e8004f;
 }
 
 a:hover {
     color: lightgray;
 }
+
