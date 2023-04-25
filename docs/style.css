@@ -4,30 +4,51 @@ nav ul {
 }
 
 nav {
-    margin-left: 50px;
-    margin-right: 50px;
-    background-color: burlywood;
+    margin-left: 150px;
+    margin-right: 150px;
+    outline: solid yellow 3px;
 }
 
 nav p {
     min-width: 100px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: 300;
+    color: yellow;
 }
 
 .website-header {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
 }
 
 .add-info {
     border: 10px;
-    outline: firebrick solid 10px;
-    margin: auto;
+    outline: black 10px;
+    margin: 25px;
     padding: 20px;
     height: 300px;
-    background-color: blue;
+    background-color: white;
 }
 
 .main-div {
     margin: 50px;
+}
+
+body {
+    background-image: url("../Gradient-BG.jpg");
+    background-size: 100%;
+}
+
+a:link {
+    color: yellow;
+}
+
+a:visited {
+    color: hotpink;
+}
+
+a:hover {
+    color: lightgray;
 }
