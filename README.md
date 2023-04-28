@@ -2,7 +2,7 @@
 
 This is the second challenge for UCF.
 
-This challenge is centered around using advanced CSS methods in order to customiz and styliz a porfolio website.
+This challenge is centered around using advanced CSS methods in order to customize and stylize a porfolio website.
 
 The goal is to display and deploy various projects we have worked on and will be working on during the course of this bootcamp.
 
